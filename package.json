@@ -1,6 +1,6 @@
 {
   "name": "suneditor-picmo-emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Suneditor Emoji plugin using Picmo",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/webard/suneditor-picmo-emoji#readme",
   "dependencies": {
-    "@joeattardi/emoji-button": "^4.6.4"
+    "picmo": "^5.8.5"
   }
 }
